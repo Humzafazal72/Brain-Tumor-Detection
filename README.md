@@ -5,7 +5,7 @@ The project leverages a custom-built U-Net architecture and popular pre-trained 
 
 ### Model Architectures
 
-- **U-Net**: A custom-designed U-Net model was created specifically for this project, focusing on preserving fine-grained details in the segmentation process.
+- **Custom U-Net**: A custom-designed U-Net model was created specifically for this project, focusing on preserving fine-grained details in the segmentation process.
 - **ResNet50**: A pre-trained ResNet50 model was utilized as an encoder within the U-Net architecture, allowing the model to benefit from the powerful feature extraction capabilities of ResNet50.
 - **VGG19_bn**: Similarly, the VGG19_bn model was employed as an encoder, known for its deep feature extraction layers that are highly effective in image segmentation tasks.
 
