@@ -1,5 +1,4 @@
 <h1 align='center'> Brain Tumor Detection </h1>
-<p align='center'>Detecting Tumor in Brain MRI via Semantic Segmentation done with UNET.</p>
 <p align='center'> 
 The project leverages a custom-built U-Net architecture and popular pre-trained models, ResNet50 and VGG19_bn, using the `segmentation_models_pytorch` library. These models have been fine-tuned and adapted for the specific task of brain tumor segmentation. The dataset used in this project can be <a href='https://www.kaggle.com/datasets/pkdarabi/brain-tumor-image-dataset-semantic-segmentation/data'>found here</a>.
 </p>
